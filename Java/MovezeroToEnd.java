@@ -15,10 +15,7 @@ public class MovezeroToEnd {
             arr[i] = 0;
             i++;
         }
-
-        for (int num : arr) {
-            System.out.print(num + " ");
-        }
+        System.out.println("new array is " + arr);
 
     }
 }

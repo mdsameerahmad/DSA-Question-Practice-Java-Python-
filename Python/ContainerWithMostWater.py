@@ -14,7 +14,7 @@ def max_area(height):
 
 if __name__ == "__main__":
     n=int(input("Enterr the size of the array :  "))
-    print("Enter the lemets of te array with spaces : ")
+    print("Enter the elements of te array with spaces : ")
     height=list(map(int ,input().split()))
     result = max_area(height)
     print("Max area is ",result)
