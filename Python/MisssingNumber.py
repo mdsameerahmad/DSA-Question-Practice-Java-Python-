@@ -13,5 +13,5 @@ if __name__ == "__main__":
     print("Enter the elemenst of the array with spaces :-")
     NewArray = list(map(int,input().split()))
     result = MissingNumber(NewArray)
-    print("Missing elemenst of teh arrays is : " ,result)
+    print("Missing elemenst of the arrays is : " ,result)
     
