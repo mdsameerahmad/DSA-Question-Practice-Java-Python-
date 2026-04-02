@@ -1,4 +1,4 @@
-package Java;
+package Practice;
 
 public class PalindromNumber {
     public static void main(String args[]) {

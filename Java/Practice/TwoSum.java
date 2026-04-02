@@ -1,4 +1,4 @@
-package Java;
+package Practice;
 
 
 //two sum were input is sorted using two pinters approach

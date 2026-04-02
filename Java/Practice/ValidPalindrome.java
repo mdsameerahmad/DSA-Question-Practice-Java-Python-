@@ -1,4 +1,4 @@
-package Java;
+package Practice;
 
 import java.util.Scanner;
     //valid palindrome function class 
